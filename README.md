@@ -2,6 +2,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/Iwwww/NotationCalculator)
 # Программа обработки базы данных учебной группы
 Практика по Высокоуровнему программированию за 1 семестр
+## [Презентация](report/Ёлгин_ММ_ИУК4_12Б_Практика_презентация.pdf)
 ## Скриншоты
 ![1](https://user-images.githubusercontent.com/45224503/147164084-8d6b1362-89c6-4fb2-b7f2-d657ac99f41b.png)
 ![2](https://user-images.githubusercontent.com/45224503/147164085-2d60de14-1636-4ea7-a02a-99fed9d3cbf8.png)
