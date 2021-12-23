@@ -1123,6 +1123,11 @@ int read_bin_file(Student data[], char filename[]) {
 	if (!fin.is_open()) return 1;
 	int index{};
 	while (!fin.eof()) {
+		/*
+		s 	- 	pointer to the character array to store the characters to
+		count 	- 	number of characters to read 
+		read(s, count)
+		*/
 		fin.read((char*)&data[index], sizeof(Student));
 		index++;
 	}
