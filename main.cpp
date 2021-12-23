@@ -402,8 +402,9 @@ int get_last_index(Student data[]) {
 }
 
 int move_note(Student data[], int index) {
-	if (get_last_index(data) < STUDENTS - 1 && index < get_last_index(data)) {
-		for (int i = get_last_index(data); i >= index; i--) {
+	int last_index = get_last_index(data);
+	if (last_index < STUDENTS - 1 && index < last_index) {
+		for (int i = last_index; i >= index; i--) {
 			data[i + 1] = data[i];
 		}
 	}
