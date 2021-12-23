@@ -70,8 +70,6 @@ int read_text_file(Student data[]);
 int read_bin_file_menu(Student data[]);
 int write_file_table(char filename[], Student data[], int);
 
-
-
 int main() {
 	system("chcp 1251 >> null");
 
@@ -101,7 +99,6 @@ int main() {
 		system("cls");
 		switch (ask) {
 		case INPUT:
-		{
 			cout << "ВВОД ДАННЫХ" << endl;
 			print_line(60);
 			cout << "1| Добавить запись" << endl;
@@ -112,7 +109,6 @@ int main() {
 			cout << "0| Назад" << endl;
 			cout << "Введите номер пункта меню: ";
 			ask = input_fast_menu(5);
-		}
 		switch (ask) {
 		case 1:
 			add_note(data);
@@ -136,7 +132,6 @@ int main() {
 		break;
 
 		case OUTPUT:
-		{
 			cout << "ВЫВОД ДАННЫХ" << endl;
 			print_line(60);
 			cout << "1| Вывод данных на экран" << endl;
@@ -145,7 +140,6 @@ int main() {
 			cout << "0| Назад" << endl;
 			cout << "Введите номер пункта меню: ";
 			ask = input_fast_menu(3);
-		}
 
 		switch (ask) {
 		case 1:
@@ -164,7 +158,6 @@ int main() {
 		break;
 
 		case TRANSLATION:
-		{
 			cout << "ПЕРЕВОД ДАННЫХ" << endl;
 			print_line(60);
 			cout << "1| Перевод базы данных в текстовый файл" << endl;
@@ -172,7 +165,6 @@ int main() {
 			cout << "0| Назад" << endl;
 			cout << "Введите номер пункта меню: ";
 			ask = input_fast_menu(2);
-		}
 
 		switch (ask) {
 		case 1:
@@ -187,7 +179,6 @@ int main() {
 		}
 		break;
 		case SORT:
-		{
 			cout << "СОРТИРОВКА ДАННЫХ" << endl;
 			print_line(60);
 			cout << "1| Сортировка по алфавиту" << endl;
@@ -196,7 +187,6 @@ int main() {
 			cout << "0| Назад" << endl;
 			cout << "Введите номер пункта меню: ";
 			ask = input_fast_menu(3);
-		}
 
 		switch (ask) {
 		case 1:
@@ -401,7 +391,6 @@ void print_line(const int length) {
 	for (int i = 0; i < length; i++) cout << '=';
 	cout << endl;
 }
-
 #pragma endregion baisic
 
 #pragma region database_operation
@@ -1163,7 +1152,6 @@ int read_bin_file_menu(Student data[]) {
 
 	return 0;
 }
-
 
 int write_file_table(char filename[], Student data[], int rows) {
 	ofstream fout(filename, ios_base::out | ios_base::trunc);
