@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/Iwwww/NotationCalculator)
-![GitHub Release Date](https://img.shields.io/github/release-date/Iwwww/NotationCalculator)
+![GitHub last commit](https://img.shields.io/github/last-commit/Iwwww/pratice_database)
+![GitHub Release Date](https://img.shields.io/github/release-date/Iwwww/pratice_database)
 # Программа обработки базы данных учебной группы
 Практика по Высокоуровнему программированию за 1 семестр
 ## [Презентация](report/Ёлгин_ММ_ИУК4_12Б_Практика_презентация.pdf)
