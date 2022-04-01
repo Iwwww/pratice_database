@@ -3,7 +3,9 @@
 # Программа обработки базы данных учебной группы
 Практика по Высокоуровнему программированию за 1 семестр
 ## [Презентация](report/Ёлгин_ММ_ИУК4_12Б_Практика_презентация.pdf)
-## Скриншоты
+<details>
+    <summary> <b><u> Скриншоты <u></b> </summary>
+
 ![1](https://user-images.githubusercontent.com/45224503/147164084-8d6b1362-89c6-4fb2-b7f2-d657ac99f41b.png)
 ![2](https://user-images.githubusercontent.com/45224503/147164085-2d60de14-1636-4ea7-a02a-99fed9d3cbf8.png)
 ![3](https://user-images.githubusercontent.com/45224503/147164087-f6ce80af-bf81-49dc-a9a1-e0beff8f34f4.png)
@@ -14,4 +16,7 @@
 ![8](https://user-images.githubusercontent.com/45224503/147164102-f8f82b8c-45c0-46c0-8970-eaabbc1213a4.png)
 ![9](https://user-images.githubusercontent.com/45224503/147164080-475d4a9b-58ed-44b6-8f8a-c4777a986978.png)
 ![add_note](https://user-images.githubusercontent.com/45224503/147164082-03c419ff-0c20-4074-9a57-f6298b8383ae.png)
+
 ![edit_note](https://user-images.githubusercontent.com/45224503/147164083-bb7a1e2e-b526-43b1-9f6e-04bcf6eb189f.png)
+
+</details>
