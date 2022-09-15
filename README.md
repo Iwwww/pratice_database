@@ -2,7 +2,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/Iwwww/pratice_database)
 # Программа обработки базы данных учебной группы
 Практика по Высокоуровнему программированию за 1 семестр
-## [Презентация](report/Ёлгин_ММ_ИУК4_12Б_Практика_презентация.pdf)
+## [Презентация](report/presentation.pdf)
 <details>
     <summary> <b><u> Скриншоты <u></b> </summary>
 
