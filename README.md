@@ -1,8 +1,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Iwwww/pratice_database)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Iwwww/pratice_database)
+
 # Программа обработки базы данных учебной группы
-Практика по Высокоуровнему программированию за 1 семестр
+
 ## [Презентация](report/presentation.pdf)
+
 <details>
     <summary> <b><u> Скриншоты <u></b> </summary>
 
